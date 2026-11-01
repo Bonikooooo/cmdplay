@@ -118,5 +118,3 @@ and is MIT licensed as well; that notice stays in the LICENSE file, which is wha
 
 Third-party components keep their own licenses: FFmpeg (LGPL 2.1+), yt-dlp (Unlicense), miniaudio (public
 domain / MIT-0).
-
-Pull requests are welcome, please keep the code short and readable.
