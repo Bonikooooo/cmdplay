@@ -111,10 +111,12 @@ cells), then `B` with `C` and `A` for solid true-colour blocks, then a higher fr
 
 ## License
 
-MIT. The original code is copyright (c) 2023 Marian Wölpper and keeps that notice, see [LICENSE](LICENSE);
-changes in this fork are released under the same terms.
+MIT, see [LICENSE](LICENSE).
 
-Bundled or required third-party libraries: FFmpeg (LGPL 2.1+), yt-dlp (Unlicense), miniaudio (public domain /
-MIT-0).
+This fork is released under the MIT license. The code it derives from is copyright (c) 2023 Marian Wölpper
+and is MIT licensed as well; that notice stays in the LICENSE file, which is what the license asks for.
+
+Third-party components keep their own licenses: FFmpeg (LGPL 2.1+), yt-dlp (Unlicense), miniaudio (public
+domain / MIT-0).
 
 Pull requests are welcome, please keep the code short and readable.
